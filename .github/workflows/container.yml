@@ -1,3 +1,4 @@
+name: workflow uses container action
 on: [push]
 
 jobs:
